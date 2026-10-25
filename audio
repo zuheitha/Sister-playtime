@@ -1,0 +1,10 @@
+├── index.html            (Your main game file)
+└── audio/
+    ├── zuheitha/
+    │   ├── intro_song.mp3  ("Hey it's me Zuheitha...")
+    │   ├── emy_scared.mp3  ("Let go, let go!")
+    │   └── sister_wuggy.mp3
+    ├── zakir/
+    │   └── willy_gas.mp3   (Willy the Killy lines)
+    └── muawiya/
+        └── piano_roar.mp3
